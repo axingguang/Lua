@@ -5,7 +5,7 @@ init_conf={
 }
 
 domain_name={
-	npms_base="http://10.154.156.247:8888",
+	npms_base="http://127.0.0.1:8888",
 }
 app_code={}
 key_info={}
