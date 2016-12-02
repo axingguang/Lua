@@ -11,7 +11,7 @@ app_code={}
 key_info={}
 
 redis_config={
-	auth='letvsc@2015',
+	auth='auth',
 	db=10,
 	timeout=1000,
 }
