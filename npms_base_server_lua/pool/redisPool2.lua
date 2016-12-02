@@ -1,13 +1,4 @@
 
-redisPool2={
-	config={
-		auth='letvsc@2015',
-		db=10,
-		timeout=1000,
-	}
-
-
-}
 local parser = require("redis.parser")
 --local json = require("cjson")
 redisPool2.hget=function(key,field)
